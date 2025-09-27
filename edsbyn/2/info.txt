@@ -1,1 +1,0 @@
-För varje fel och användning av hjälp tillkommer ett tidstillägg på 200 sekunder.
