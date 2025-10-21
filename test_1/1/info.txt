@@ -1,0 +1,4 @@
+﻿För varje fel och användning av hjälp tillkommer ett tidstillägg på 200 sekunder.
+Men var inte rädd för att testa utan försök att klura ut hur saker fungerar.
+
+Vid tredje användandet av hjäp för en uppgift så finns alltid svaret där.
