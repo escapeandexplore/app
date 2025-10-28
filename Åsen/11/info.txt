@@ -1,2 +1,3 @@
 ﻿Du hittar en Metalldetektor och bestämmer dig för att testa den.
 Är det inte en gammal kolbotten här i närheten, där kanske det går att hitta något.
+Du trycker på fortsätt och startar metalldetektorn.
